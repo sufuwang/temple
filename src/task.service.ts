@@ -27,6 +27,6 @@ export class TaskService {
   }
 
   onModuleInit() {
-    this.backupReadMeData();
+    // this.backupReadMeData();
   }
 }
